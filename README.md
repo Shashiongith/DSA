@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
 | [0836-rectangle-overlap](https://github.com/Shashiongith/DSA/tree/master/0836-rectangle-overlap) |
 ## Geometry
 |  |
@@ -19,4 +20,12 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Shashiongith/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shashiongith/DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+## String
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
