@@ -24,8 +24,14 @@
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
+| [0856-score-of-parentheses](https://github.com/Shashiongith/DSA/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
+| [0856-score-of-parentheses](https://github.com/Shashiongith/DSA/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Shashiongith/DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
