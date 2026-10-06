@@ -25,13 +25,20 @@
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
 | [0856-score-of-parentheses](https://github.com/Shashiongith/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shashiongith/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
 | [0856-score-of-parentheses](https://github.com/Shashiongith/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shashiongith/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Shashiongith/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shashiongith/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shashiongith/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
