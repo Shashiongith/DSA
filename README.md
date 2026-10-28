@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Shashiongith/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shashiongith/DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sliding Window
@@ -48,6 +49,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Shashiongith/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashiongith/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashiongith/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Shashiongith/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shashiongith/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -75,9 +78,11 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
