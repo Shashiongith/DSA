@@ -18,6 +18,7 @@
 | [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shashiongith/DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashiongith/DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashiongith/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashiongith/DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@
 | [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shashiongith/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashiongith/DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,4 +90,20 @@
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashiongith/DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashiongith/DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashiongith/DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashiongith/DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 <!---LeetCode Topics End-->
