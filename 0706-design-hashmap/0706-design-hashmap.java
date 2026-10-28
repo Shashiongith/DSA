@@ -1,20 +1,52 @@
 class MyHashMap {
-    private int[] storage;
-    public MyHashMap() {
-        storage = new int[1000001];
-        Arrays.fill(storage,-1);
+    private static class Node {
+        int key, val;
+        Node next;
+        Node(int key, int val) { this.key = key; this.val = val; }
     }
-    
+
+    private final Node[] buckets = new Node[10007];
+
+    private int hash(int key) {
+        return key % buckets.length;
+    }
+
     public void put(int key, int value) {
-        storage[key] = value;
+        int i = hash(key);
+        Node cur = buckets[i];
+        while (cur != null) {
+            if (cur.key == key) {       // key exists: update
+                cur.val = value;
+                return;
+            }
+            cur = cur.next;
+        }
+        Node node = new Node(key, value); // key not found: insert at head
+        node.next = buckets[i];
+        buckets[i] = node;
     }
-    
+
     public int get(int key) {
-        return storage[key];
+        Node cur = buckets[hash(key)];
+        while (cur != null) {
+            if (cur.key == key) return cur.val;
+            cur = cur.next;
+        }
+        return -1;
     }
-    
+
     public void remove(int key) {
-        storage[key] = -1;
+        int i = hash(key);
+        Node cur = buckets[i], prev = null;
+        while (cur != null) {
+            if (cur.key == key) {
+                if (prev == null) buckets[i] = cur.next; // removing head
+                else prev.next = cur.next;
+                return;
+            }
+            prev = cur;
+            cur = cur.next;
+        }
     }
 }
 
