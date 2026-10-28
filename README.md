@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
 | [0836-rectangle-overlap](https://github.com/Shashiongith/DSA/tree/master/0836-rectangle-overlap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shashiongith/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@
 | [0234-palindrome-linked-list](https://github.com/Shashiongith/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shashiongith/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
