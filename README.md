@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/Shashiongith/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Shashiongith/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shashiongith/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
@@ -52,11 +53,13 @@
 | [0141-linked-list-cycle](https://github.com/Shashiongith/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashiongith/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Shashiongith/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Shashiongith/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Shashiongith/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashiongith/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Shashiongith/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +68,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Shashiongith/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Shashiongith/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
