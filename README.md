@@ -50,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Shashiongith/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/Shashiongith/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashiongith/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
@@ -58,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Shashiongith/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/Shashiongith/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashiongith/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Shashiongith/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shashiongith/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -83,6 +85,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Shashiongith/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
@@ -101,6 +104,7 @@
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Shashiongith/DSA/tree/main/0146-lru-cache/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashiongith/DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
