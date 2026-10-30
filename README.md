@@ -30,6 +30,7 @@
 | [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
 | [0856-score-of-parentheses](https://github.com/Shashiongith/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shashiongith/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shashiongith/DSA/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shashiongith/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shashiongith/DSA/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +112,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashiongith/DSA/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shashiongith/DSA/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 <!---LeetCode Topics End-->
