@@ -27,6 +27,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shashiongith/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Shashiongith/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
 | [0856-score-of-parentheses](https://github.com/Shashiongith/DSA/tree/master/0856-score-of-parentheses) |
@@ -35,6 +36,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shashiongith/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Shashiongith/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Shashiongith/DSA/tree/master/0856-score-of-parentheses) |
@@ -42,6 +44,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shashiongith/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Shashiongith/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shashiongith/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
