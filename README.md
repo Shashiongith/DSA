@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shashiongith/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Shashiongith/DSA/tree/master/0227-basic-calculator-ii) |
 | [0836-rectangle-overlap](https://github.com/Shashiongith/DSA/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shashiongith/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -64,6 +65,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shashiongith/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shashiongith/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/Shashiongith/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashiongith/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -86,6 +88,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shashiongith/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shashiongith/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shashiongith/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Design
