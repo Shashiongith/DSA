@@ -71,6 +71,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashiongith/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Shashiongith/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shashiongith/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/Shashiongith/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0705-design-hashset](https://github.com/Shashiongith/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Shashiongith/DSA/tree/main/0706-design-hashmap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shashiongith/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
